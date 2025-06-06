@@ -2,7 +2,7 @@
 
 An interactive desktop chatbot built with Python’s Tkinter, featuring Gemini AI integration, a random question feature, theming support, and advanced error handling. Perfect for learning AI integration and building a GUI-based assistant.
 
-# 📌 Features :
+# 📌 Features 
 
 ✅ Gemini AI Integration — Handles complex queries with Gemini AI.
 
@@ -16,20 +16,35 @@ An interactive desktop chatbot built with Python’s Tkinter, featuring Gemini A
 
 ✅ Modern GUI — Responsive Tkinter interface with styled messages.
 
+# 🔗 Demo 
 
 
-# 🖼️ Screenshots:
+ 
+
+https://github.com/user-attachments/assets/2e578b53-175e-4c34-9e72-c115e7adcc64
 
 
-![Screenshot 2025-06-04 224118](https://github.com/user-attachments/assets/a5da6330-cccd-48be-a443-6f6bea65d95c)
+  
+  🔗  [Google Drive Link](https://drive.google.com/file/d/1tJRllZBjvgDSDONyYBfApRTZztEDpUdg/view)
+  
+# 🚀 How to Use the Chatbot from Google Drive 
+
+📥 Step 1: Click the link and open the Google Drive page (it’ll say “No preview available”—that’s normal!).
+
+📥 Step 2: Click the Download button; if warned, choose “Keep” or “Allow.”
+
+💻 Step 3: Find the downloaded file in your Downloads folder (or extract it if zipped).
+
+🚀 Step 4: Double-click the .exe file; if SmartScreen pops up, click More info > Run anyway.
 
 
+# 🔒 Important Notes
 
-![Screenshot 2025-06-04 224244](https://github.com/user-attachments/assets/41a6a32f-37d4-4c35-a015-9e7dd2f4b9bb)
+✅ You can’t run .exe files directly from Drive—download them first.
 
+✅ Windows might warn you about unknown publishers—click “More info > Run anyway.”
 
-![Screenshot 2025-06-04 224315](https://github.com/user-attachments/assets/0034524e-c9f7-4472-9dd6-1c3a36dba9d4)
-
+✅ Always scan downloaded files for safety.
 # 🔑 Gemini API Key
 
 This project uses Google’s Gemini API.
